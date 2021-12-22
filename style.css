@@ -133,7 +133,7 @@ a:hover{
 header, #navigation, #web1, .table, .form, footer{
     background-color: #7D7F7D;
     border-width: thick;
-    border-style: double;
+    border-style: outset;
     border-color: #BAAF96;
     border-image: initial;
 }
